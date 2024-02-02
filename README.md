@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Java, JavaScript, Servlets, JSP, Spring Core, Spring MVC, Spring Boot, Hibernate, JDBC, SQL**
 
-- 📫 How to reach me **email**
+- 📫 How to reach me **omprakashrajak13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
